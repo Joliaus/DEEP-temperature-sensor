@@ -1,4 +1,4 @@
-DEEP
+#DEEP
 DEEP (Distributed Embedded Environmental Platform) est un projet d'électronique et de systèmes embarqués utilisant une architecture à base de [NRF52 ou microcontrôleur spécifique, si applicable] pour créer une plateforme connectée de gestion environnementale. Il intègre des capteurs pour surveiller des conditions variées et communiquer via un protocole sans fil.
 
 Table des matières
